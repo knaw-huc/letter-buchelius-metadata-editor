@@ -1,2 +1,2 @@
-# Letter generic metadata editor
-Generic (HuC) metadata application profile (and CMDI editor) for letters.
+# Letter Buchelius metadata editor
+Fork of the generic (HuC) metadata application profile (and CMDI editor) for letters.
