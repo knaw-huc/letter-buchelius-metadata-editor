@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <config>
   <app>
-    <name>letter-generic-metadata</name>
-    <title>Letter-generic-metadata Editor</title>
+    <name>letter-buchelius-metadata</name>
+    <title>Letter-buchelius-metadata Editor</title>
     <def_prof>clarin.eu:cr1:p_1761816151556</def_prof>
     <cmdi_version>1.2</cmdi_version>
     <access>
